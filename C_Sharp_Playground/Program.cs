@@ -6,7 +6,9 @@ namespace C_Sharp_Playground
 	{
 		static void Main(string[] args)
 		{
-            new Indexers.IndexerProgram();
+            //new Indexers.IndexerProgram();
+            //new GenericExtension.GenenricExtRunner();
+            new LinqTryOuts.GroupOuterJoinWithSelectMany();
 
 			Console.ReadKey();
 		}
