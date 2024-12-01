@@ -55,6 +55,7 @@
     <Compile Include="LinqTryOuts\Classes\Person.cs" />
     <Compile Include="LinqTryOuts\Classes\Pet.cs" />
     <Compile Include="LinqTryOuts\GroupOuterJoinWithSelectMany.cs" />
+    <Compile Include="LinqVsGenericBuiltIn\LinqVsGenericBuiltIn.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TAP\BasicTask.cs" />
